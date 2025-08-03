@@ -31,7 +31,8 @@ import {
 import './App.css'
 
 // مكونات التطبيق
-const API_BASE = 'https://g8h3ilcvjzd3.manus.space/api'
+const API_BASE = 'https://shahia-project.onrender.com/api';
+
 
 function App() {
   const [user, setUser] = useState(null)
